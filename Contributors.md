@@ -1,8 +1,8 @@
 
 # Contributors
 - [Salar Loran Telo](https://github.com/SalarTelo)
-- [Dhruv Kadam](https://github.com/DHRUVKADAM22)
 - [Kushal Agrawal](https://github.com/kushal34712)
+- [Dhruv Kadam](https://github.com/DHRUVKADAM22)
 - [Luke Stump](https://github.com/LukeStump419)
 - [Mahesh Suthar](https://github.com/sutharmahesh05)
 - [Deepanshu](https://github.com/creator0131)
